@@ -41,6 +41,7 @@ export default {
 .brand-img{
   width: 334px;
   height: 82px;
+  margin-left: -12px
 }
 .content-wrap{
   padding: 48px 0 0 0;

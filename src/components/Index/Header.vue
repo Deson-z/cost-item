@@ -53,11 +53,12 @@ export default {
   margin-right: 5px;
 }
 .r-item-li {
-  margin-right: 18px;
+  margin-left: 18px;
 }
 .r-item {
   display: flex;
   cursor:default;
+  justify-content: space-between;
 }
 .l-item {
 }
